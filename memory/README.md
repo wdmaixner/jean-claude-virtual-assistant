@@ -13,6 +13,9 @@ before finishing, committing the change to this repo.
 - `alerts_sent.md` — dedupe/suppression log for the 4-hour urgent-alert
   check (see below). An entry here means "don't alert on this again" —
   either because it was already sent, or because Will said to disregard it.
+- `artifact.md` — the stable URL for the styled visual "daily dispatch"
+  page and how to redeploy it each morning. See that file for the exact
+  read-edit-republish flow.
 
 Keep entries short and dated. This is a notebook, not a transcript — prune
 stale or completed items rather than appending forever.
