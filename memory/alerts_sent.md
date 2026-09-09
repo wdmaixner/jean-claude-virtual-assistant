@@ -7,4 +7,4 @@ Will said to disregard it. One line per entry:
 Prune entries older than 2 days (sent) — keep disregarded items longer if
 they could plausibly resurface (e.g. a recurring bill).
 
-- (empty)
+- 2026-09-09 - sent - Google security alert: saved passwords found in a data breach, recommends password checkup
