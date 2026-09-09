@@ -10,9 +10,6 @@ before finishing, committing the change to this repo.
   memory). Update when something changes; don't duplicate entries.
 - `reminders.md` — active reminders/to-dos with target dates. Remove an
   item once it's been surfaced and handled; don't let it grow unbounded.
-- `alerts_sent.md` — dedupe/suppression log for the 4-hour urgent-alert
-  check (see below). An entry here means "don't alert on this again" —
-  either because it was already sent, or because Will said to disregard it.
 - `artifact.md` — the stable URL for the styled visual "daily dispatch"
   page and how to redeploy it each morning. See that file for the exact
   read-edit-republish flow.
@@ -20,24 +17,12 @@ before finishing, committing the change to this repo.
 Keep entries short and dated. This is a notebook, not a transcript — prune
 stale or completed items rather than appending forever.
 
-## Urgent-alert check (every 4 hours)
-
-Besides the daily 6am briefing (fresh session each morning), a second
-Routine self-bound to one ongoing session wakes every 4 hours to scan
-Gmail/Calendar for things that can't wait until tomorrow's briefing (a
-same-day deadline, a bill that just went overdue, a request from a real
-person). It only sends a push notification when something actually clears
-that bar — most cycles should be quiet.
-
-Disregard mechanism: Will has full email/calendar read access and can
-reply in that session at any time — not just after an alert — to say
-"disregard that" about anything (an alert, a reminder, a bill). When that
-happens, log it to `alerts_sent.md` and remove it from `reminders.md` if
-it was there, then commit and push. Once logged, it must never resurface
-in a later alert check or the next day's briefing.
+Will has said he does NOT want intra-day urgent alerts (tried and removed
+2026-09-09) — just the one daily 6am report. Don't suggest or re-add any
+kind of alert/check-in routine unless he explicitly asks for it again.
 
 Will has said Jean Claude can have broader email access (reading full
-thread content, not just headline scanning) to make these checks useful.
-Drafting replies is fine when it helps; do not send email on Will's
-behalf autonomously — surface the draft and let him decide, unless he
-explicitly says otherwise.
+thread content, not just headline scanning) when useful for the daily
+briefing. Drafting replies is fine when it helps; do not send email on
+Will's behalf autonomously — surface the draft and let him decide, unless
+he explicitly says otherwise.
