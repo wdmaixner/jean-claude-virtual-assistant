@@ -26,3 +26,12 @@ thread content, not just headline scanning) when useful for the daily
 briefing. Drafting replies is fine when it helps; do not send email on
 Will's behalf autonomously — surface the draft and let him decide, unless
 he explicitly says otherwise.
+
+Operational note (2026-09-10): this repo is not always checked out at the
+session's working directory automatically — one run started in an empty
+directory with no repo present. If that happens, use the
+mcp__Claude_Code_Remote__list_repos tool to find
+`wdmaixner/jean-claude-virtual-assistant` and `git clone` it (then `git
+pull origin main`) into a working directory (e.g. under
+/mnt/user-data/working/) before reading memory/. Don't skip the briefing
+just because the working directory looks empty at first.

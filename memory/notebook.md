@@ -12,3 +12,6 @@ Durable facts and preferences. One line per entry, dated when added.
 - (2026-09-09) True North Insights (formerly Capvision, a market-research recruiting firm) periodically emails Will paid consultation invites - legitimate outreach, not spam, but never urgent.
 - (2026-09-08) Cooking newsletters in inbox worth checking for dinner ideas: NYT Cooking, Easy Family Recipes.
 - (2026-09-08) Recurring inbox noise to skip in briefings: Outer Banks real estate listings (Matt Myatt), job-recruiter emails (Indeed/LinkedIn), hotel/travel marketing, Nextdoor posts, healthcare industry newsletters (ACHE, Becker's).
+- (2026-09-10) Will runs a side project called "gapmap" deployed on Vercel (wdmaixner-7122's projects) - a competitor-gap/market analysis tool with an "Analyst" chat feature; watch for repeated production deployment failure emails from Vercel as these are actionable, not noise.
+- (2026-09-10) Henrico County utility bill (via Paymentus, acct 0082677-01124694) is a recurring monthly bill emailed with just a due date, no amount shown in the notice - amount requires logging into the portal.
+- (2026-09-10) Easy Family Recipes (eat@easyfamilyrecipes.com) is another kid-friendly recipe newsletter worth checking for dinner ideas, alongside NYT Cooking.
