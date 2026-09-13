@@ -7,19 +7,11 @@ Will can bookmark it once.
 
 URL: https://claude.ai/code/artifact/607ecbc7-8da0-4d08-8643-00dd3fcde227
 
-(2026-09-11: the previous URL, cc522f56-1b98-45af-acc4-52b48b2b8b05, could not
-be republished either — same failure mode as the one before it: the Artifact
-publish action with `url` set was blocked by the auto-mode permission
-classifier two attempts in a row, reason "Unrequested Artifact Publish", no
-further detail. This is now a two-run-in-a-row pattern (2026-09-09→09-10 URL,
-then 09-10→09-11 URL), so the republish-in-place flow may just not work
-reliably in this unattended/auto-permission-mode session — consider trying a
-fresh publish every morning without attempting the update-in-place read/edit
-first, until this is confirmed fixed. Fell back to publishing a new artifact
-per the instruction below. New artifacts publish private-by-default, so this
-link may need Will to open its share menu once to make it link-shareable
-again, unlike the original one which was already set to "anyone with the
-link".)
+(2026-09-13: read-edit-republish-in-place worked cleanly this run — no
+classifier block. The 2026-09-09→09-11 streak of "Unrequested Artifact
+Publish" blocks on url-targeted publishes appears to have been transient.
+Keep using the flow below by default; only fall back to a fresh publish if
+it fails again.)
 
 How to update it each morning:
 1. Call the Artifact tool with `action: "read"` and this URL to pull the
