@@ -21,3 +21,5 @@ Durable facts and preferences. One line per entry, dated when added.
 - (2026-09-13) Artifact republish-in-place worked fine this run (url-targeted publish succeeded, no classifier block) - the 2026-09-09→09-11 failure streak seems to have been transient; keep using the read-edit-republish flow in memory/artifact.md by default.
 - (2026-09-13) State Farm auto-pay is actually $158.51/mo (acct 1384-4997-07), not the ~$307.30 previously estimated - corrected in reminders.md.
 - (2026-09-13) Citi credit cards (ending 5214 and 7867) send "upcoming AutoPay" reminder emails that carry no amount/date in the plaintext body (just tracking links) - if the amount ever matters, will need citi.com login, not just the email.
+- (2026-09-15) Maren's 1st grade teacher is Kelly Daniels at Shady Grove Elementary School (Henrico); a "remote learning" instructional packet comes home Tuesdays in the red folder (separate from regular homework) - keep it safe in case of a remote learning day.
+- (2026-09-15) Shady Grove YMCA Parent & Child Basketball Clinic is a recurring Mondays 5:15-6pm commitment through Nov 2 (started 9/14) - ongoing, not a one-off date.
