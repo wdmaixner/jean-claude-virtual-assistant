@@ -30,3 +30,4 @@ Durable facts and preferences. One line per entry, dated when added.
 - (2026-09-17) Function Health periodic lab panels (via Quest Diagnostics, already paid, no insurance needed) come with fasting instructions and travel buffers already built into Will's own calendar events - no separate reminders.md entry needed, just surface what's on the calendar that day.
 - (2026-09-17) Will is involved with Connor's Heroes (pediatric transplant nonprofit) - attends donor events like the Circle of Heroes Reception at Maymont.
 - (2026-09-29) Apple Reminders are not readable by the Routine; Will is deciding between an iOS Shortcut and a Google Calendar habit. Repo checkout worked on the 9/29 manual re-run.
+- (2026-09-30) Wyndham Foundation/Community Group assessment (~$285/mo) autopays via KliknPay (checkalt) with a $274 upper limit - raise the limit to avoid monthly partial payments.
