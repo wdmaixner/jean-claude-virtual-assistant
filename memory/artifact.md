@@ -33,3 +33,5 @@ How to update it each morning:
 
 If the read/publish flow ever fails (e.g. artifact not found), fall back
 to publishing a new artifact and update this file with the new URL.
+
+(2026-10-01: publish to the URL above returned the equivalent link https://claude.ai/artifact/Cv7FRsoFZsksMXXL9SiDfc (version 26) - same artifact; keep using the URL above.)
