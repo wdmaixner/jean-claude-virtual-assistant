@@ -32,3 +32,4 @@ Durable facts and preferences. One line per entry, dated when added.
 - (2026-09-29) Apple Reminders are not readable by the Routine; Will is deciding between an iOS Shortcut and a Google Calendar habit. Repo checkout worked on the 9/29 manual re-run.
 - (2026-09-30) Wyndham Foundation/Community Group assessment (~$285/mo) autopays via KliknPay (checkalt) with a $274 upper limit - raise the limit to avoid monthly partial payments.
 - (2026-10-01) Robson Landscaping & Turf (via ServiceAutopilot/XplorPay) does lawn care at 12105 Loxton Ct, Glen Allen, VA 23059 - invoices emailed with a due date; Will also gets Etsy billing emails. WebSearch for national headlines/sports is often stale or empty - state that honestly rather than padding.
+- (2026-10-02) Natalie handles school purchases (yearbook via Jostens/PayPal, MySchoolBucks/OSMS) - if a school deadline is on Will's calendar, check Natalie's inbox receipts before flagging it as open.
