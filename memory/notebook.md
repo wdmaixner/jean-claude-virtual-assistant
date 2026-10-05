@@ -36,3 +36,4 @@ Durable facts and preferences. One line per entry, dated when added.
 - (2026-10-03) Will buys crypto on Coinbase (e.g. $500 QNT on 10/3) and pays a Valon mortgage ($1,202.89/mo, via Prime Checking ...4060, tracked in Monarch) - routine, no flag needed unless anomalous. Web news search was empty again 10/3; list only verified items.
 - (2026-10-03) Will says they never signed up for Aspire Dance Academy - ignore Aspire emails/tuition; do not remind (earlier reminder was wrong).
 - (2026-10-04) State Farm bill is now $249.35 (10/22), up from $158.51 - premium likely changed. News/sports WebSearch was again stale/empty; only list verified items (Nextdoor/email-sourced local items are usable).
+- (2026-10-05) VCU Health (MyChart) medical bills go to Natalie's email (acct 6773); NYT 'Five Weeknight Dishes' newsletter is a good dinner source. News WebSearch worked this run (UNC + Richmond + national) - try it first.
