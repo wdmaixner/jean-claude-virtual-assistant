@@ -8,5 +8,6 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-10-15: Robson Landscaping & Turf invoice #93415 $203.98 due (a receipt arrived 10/1 - verify if already paid)
 - 2026-10-22: State Farm auto-pay $249.35 scheduled (acct 1384-4997-07; higher than the $158.51 previously on file - verify)
 - 2026-10-09: SGES 1st grade fundraiser ends (on calendar; check Natalie's receipts before flagging)
-- 2026-10-05: VCU Health $330.00 overdue (Natalie acct 6773; $66/mo x5 plan option, 888-803-0082) - surfaced 10/5; confirm paid/plan set up
 - 2026-11-04: Lolli rewards expire - use before then
+- 2026-10-12: Natalie chaperoning Maren's 1st grade Maymont field trip (date not stated in emails - check ParentSquare; at school ~9am, back ~1:30, $10 fee via QR)
+- 2026-11-01: Carrington/Valon mortgage $1,202.89 autopay (routine, no action)
