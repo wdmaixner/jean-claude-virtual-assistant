@@ -35,3 +35,5 @@ mcp__Claude_Code_Remote__list_repos tool to find
 pull origin main`) into a working directory (e.g. under
 /mnt/user-data/working/) before reading memory/. Don't skip the briefing
 just because the working directory looks empty at first.
+
+Standing request (2026-10-09): add a "Heads Up - Next 24 Hrs" section to every briefing (email, calendar event description, and artifact, placed right after Reminders). It lists what is happening tomorrow: events on all five calendars, bills/autopays due tomorrow, and emailed one-offs like school picture day, spirit days, forms/permission slips due, pickups or deadlines. Scan the inbox for "tomorrow", "picture day" and similar. If nothing, say so in one line.
