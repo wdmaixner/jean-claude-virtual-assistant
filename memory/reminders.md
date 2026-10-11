@@ -11,6 +11,6 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-11-15: State Farm hazard policy expires - Carrington has no renewal on file; send PDF (loan 1376836603) to carrington@ihaveinsurance.com (flagged 10/8)
 - 2026-10-18: James' 5th birthday party, Skyzone 12:15 PM (RSVP'd Yes via Punchbowl 10/8)
 
-- 2026-10-12: Mon 5:15 PM YMCA basketball clinic is recurring (see notebook); Maymont trip same day
-- 2026-10-11: Etsy MVTeeStore still suspended - update Amex ...3009 in Etsy billing (flagged 10/9, 10/10)
-- 2026-10-12: Wells Fargo ...5253 was $763.11 on 10/10 before $491 Brightwheel autopay - confirm balance covers it / transfer funds
+
+- 2026-10-27: Papa John's Trunk or Treat order due 9 AM (Natalie's calendar); Trunk or Treat Wed 10/28 4:30-6:30 PM at Shady Grove
+- 2026-10-24: SGES Houses "Together We Can Make a Difference" service event 9-12 (Natalie's calendar)
