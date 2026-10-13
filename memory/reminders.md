@@ -3,6 +3,8 @@
 Active reminders/to-dos with a target date. Remove once surfaced and handled.
 
 - 2026-10-15: Robson Landscaping & Turf invoice #93415 $203.98 due (a receipt arrived 10/1 - verify if already paid)
+- 2026-10-14: Maren Fall Picture Day (Strawbridge) - dress nicely, pay online or send envelope (calendar)
+- 2026-10-15: Evite RSVP for Samaya's 7th birthday (Maren; in Natalie's inbox, no date seen)
 - 2026-10-22: State Farm auto-pay $249.35 scheduled (acct 1384-4997-07; higher than the $158.51 previously on file - verify)
 - 2026-11-04: Lolli rewards expire - use before then
 - 2026-11-01: Carrington/Valon mortgage $1,202.89 autopay (routine, no action)
