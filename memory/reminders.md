@@ -17,3 +17,5 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-10-18: Natalie's party at KH Creative Collective - setup 1:30 PM, starts 2:00, bring own table
 - 2026-10-22: Wells Fargo credit card ...7133 payment due (stmt $86.04, min $25)
 - 2026-10-18: CONFLICT - James' Skyzone party 12:15-2:15 overlaps Natalie's KH Creative party (setup 1:30) - Will to sort out (flagged 10/15)
+- 2026-10-17: Verify Google passkey-added alerts (10/15, wdmaixner@ + themaixnerfam@) and review IDnotify/McAfee dark-web + Experian alerts (flagged 10/16)
+- 2026-10-20: Window Depot (Frank Crum) follow-up pending - decide/reply on project quote
