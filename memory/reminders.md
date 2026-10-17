@@ -13,9 +13,10 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-10-27: Papa John's Trunk or Treat order due 9 AM (Natalie's calendar); Trunk or Treat Wed 10/28 4:30-6:30 PM at Shady Grove
 - 2026-10-24: SGES Houses "Together We Can Make a Difference" service event 9-12 (Natalie's calendar)
 - 2026-10-19: Natalie's Amazon returns to drop at Whole Foods (Sonicare etc. by 10/19; Irenare mahjong cover by 10/26)
-- 2026-10-17: Citi Strata Premier ...7867 payment due
 - 2026-10-18: Natalie's party at KH Creative Collective - setup 1:30 PM, starts 2:00, bring own table
 - 2026-10-22: Wells Fargo credit card ...7133 payment due (stmt $86.04, min $25)
 - 2026-10-18: CONFLICT - James' Skyzone party 12:15-2:15 overlaps Natalie's KH Creative party (setup 1:30) - Will to sort out (flagged 10/15)
-- 2026-10-17: Verify Google passkey-added alerts (10/15, wdmaixner@ + themaixnerfam@) and review IDnotify/McAfee dark-web + Experian alerts (flagged 10/16)
 - 2026-10-20: Window Depot (Frank Crum) follow-up pending - decide/reply on project quote
+- 2026-10-18: Natalie to sign KH Creative Collective contract #000084 before her 2PM appointment (flagged 10/17)
+- 2026-10-29: VCU Health visit for Evie, $50 prepay estimate; VCU waitlist opening in MyChart (Natalie's inbox, flagged 10/17)
+- 2026-10-19: Check Pediatric Associates of Richmond portal message about Vann (flagged 10/17)
