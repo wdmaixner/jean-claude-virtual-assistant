@@ -7,16 +7,15 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-11-01: Carrington/Valon mortgage $1,202.89 autopay (routine, no action)
 - 2026-11-02: Dominion Energy autopay (bill ready 10/6; amount not seen)
 - 2026-11-15: State Farm hazard policy expires - Carrington has no renewal on file; send PDF (loan 1376836603) to carrington@ihaveinsurance.com (flagged 10/8)
-- 2026-10-18: James' 5th birthday party, Skyzone 12:15 PM (RSVP'd Yes via Punchbowl 10/8)
 
 
 - 2026-10-27: Papa John's Trunk or Treat order due 9 AM (Natalie's calendar); Trunk or Treat Wed 10/28 4:30-6:30 PM at Shady Grove
 - 2026-10-24: SGES Houses "Together We Can Make a Difference" service event 9-12 (Natalie's calendar)
 - 2026-10-19: Natalie's Amazon returns to drop at Whole Foods (Sonicare etc. by 10/19; Irenare mahjong cover by 10/26)
-- 2026-10-18: Natalie's party at KH Creative Collective - setup 1:30 PM, starts 2:00, bring own table
 - 2026-10-22: Wells Fargo credit card ...7133 payment due (stmt $86.04, min $25)
-- 2026-10-18: CONFLICT - James' Skyzone party 12:15-2:15 overlaps Natalie's KH Creative party (setup 1:30) - Will to sort out (flagged 10/15)
 - 2026-10-20: Window Depot (Frank Crum) follow-up pending - decide/reply on project quote
-- 2026-10-18: Natalie to sign KH Creative Collective contract #000084 before her 2PM appointment (flagged 10/17)
 - 2026-10-29: VCU Health visit for Evie, $50 prepay estimate; VCU waitlist opening in MyChart (Natalie's inbox, flagged 10/17)
 - 2026-10-19: Check Pediatric Associates of Richmond portal message about Vann (flagged 10/17)
+
+- 2026-10-19: CMoR Legendary Santa tickets on sale 9 AM (members); Sienna service 10:30 Ourisman Toyota
+- 2026-10-20: Venmo request from Nora Mayorga $365 'Monumental Sept26' still unpaid (flagged 10/18) - Will to decide
