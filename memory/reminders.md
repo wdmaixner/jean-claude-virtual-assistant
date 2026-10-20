@@ -12,10 +12,6 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-10-27: Papa John's Trunk or Treat order due 9 AM (Natalie's calendar); Trunk or Treat Wed 10/28 4:30-6:30 PM at Shady Grove
 - 2026-10-24: SGES Houses "Together We Can Make a Difference" service event 9-12 (Natalie's calendar)
 - 2026-10-22: Wells Fargo credit card ...7133 payment due (stmt $86.04, min $25)
-- 2026-10-20: Window Depot (Frank Crum) follow-up pending - decide/reply on project quote
 - 2026-10-29: VCU Health visit for Evie, $50 prepay estimate; VCU waitlist opening in MyChart (Natalie's inbox, flagged 10/17)
-
-- 2026-10-20: Venmo request from Nora Mayorga $365 'Monumental Sept26' still unpaid (flagged 10/18) - Will to decide
-
-- 2026-10-20: Verizon bill ready online 10/18 (amount not in email) - check due date
-- 2026-10-20: VCU MyChart wait-list opening for Evie (Natalie inbox, flagged 10/19) - act soon
+- 2026-10-23: Evite RSVP for Samaya's 7th birthday (Maren; Natalie's inbox, flagged 10/20)
+- 2026-10-23: Mrs. Ramsey's class teacher-gift contribution info (Natalie's inbox, flagged 10/20)
