@@ -15,3 +15,5 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-10-29: VCU Health visit for Evie, $50 prepay estimate; VCU waitlist opening in MyChart (Natalie's inbox, flagged 10/17)
 - 2026-10-23: Evite RSVP for Samaya's 7th birthday (Maren; Natalie's inbox, flagged 10/20)
 - 2026-10-23: Mrs. Ramsey's class teacher-gift contribution info (Natalie's inbox, flagged 10/20)
+- 2026-10-30: Supabase final notice - new tables in 'public' need explicit grants from this date (check gapmap)
+- 2026-11-02: RCYF Election Day camps 11/2 and 11/3, $85/day, ages 5+ (Natalie's inbox, flagged 10/21; sign up if needed)
