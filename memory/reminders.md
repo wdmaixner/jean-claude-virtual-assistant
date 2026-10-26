@@ -12,7 +12,7 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-10-29: VCU Health visit for Evie, $50 prepay estimate; VCU waitlist opening in MyChart (Natalie's inbox, flagged 10/17)
 - 2026-10-30: Supabase final notice - new tables in 'public' need explicit grants from this date (check gapmap)
 - 2026-11-02: RCYF Election Day camps 11/2 and 11/3, $85/day, ages 5+ (Natalie's inbox, flagged 10/21; sign up if needed)
-- 2026-10-26: CARFAX recall on 2026 Toyota Sienna - schedule dealer repair (flagged 10/22)
 - 2026-10-28: Evie dermatology 3 PM, Commonwealth Dermatology, 7001 Forest Ave (Natalie's inbox, flagged 10/23)
 - 2026-10-27: Parent-teacher conference sign-up (Ms. Daniels, ParentSquare) and Maren MySchoolBucks low balance ($20) - flagged 10/24
 - 2026-10-27: Natalie's Vivaia shoe return awaiting her reply (3 nudges, flagged 10/25)
+- 2026-10-30: Supabase project 'BRCA Bros' going to be paused (email 10/25) - restore if still needed
