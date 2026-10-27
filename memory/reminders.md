@@ -8,11 +8,11 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-11-15: State Farm hazard policy expires - Carrington has no renewal on file; send PDF (loan 1376836603) to carrington@ihaveinsurance.com (flagged 10/8)
 
 
-- 2026-10-27: Papa John's Trunk or Treat order due 9 AM - Natalie already ordered (#8225, 10/23, school pickup 10/28); Trunk or Treat Wed 10/28 4:30-6:30 PM at Shady Grove
 - 2026-10-29: VCU Health visit for Evie, $50 prepay estimate; VCU waitlist opening in MyChart (Natalie's inbox, flagged 10/17)
 - 2026-10-30: Supabase final notice - new tables in 'public' need explicit grants from this date (check gapmap)
 - 2026-11-02: RCYF Election Day camps 11/2 and 11/3, $85/day, ages 5+ (Natalie's inbox, flagged 10/21; sign up if needed)
 - 2026-10-28: Evie dermatology 3 PM, Commonwealth Dermatology, 7001 Forest Ave (Natalie's inbox, flagged 10/23)
-- 2026-10-27: Parent-teacher conference sign-up (Ms. Daniels, ParentSquare) and Maren MySchoolBucks low balance ($20) - flagged 10/24
-- 2026-10-27: Natalie's Vivaia shoe return awaiting her reply (3 nudges, flagged 10/25)
 - 2026-10-30: Supabase project 'BRCA Bros' going to be paused (email 10/25) - restore if still needed
+
+- 2026-11-16: Brightwheel Mrs. Spangler fall conferences Mon 11/16 - sign up for a slot (William Vann; email 10/26)
+- 2026-11-08: Verizon $129.84 autopay (Natalie's account, routine)
