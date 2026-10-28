@@ -11,8 +11,8 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-10-29: VCU Health visit for Evie, $50 prepay estimate; VCU waitlist opening in MyChart (Natalie's inbox, flagged 10/17)
 - 2026-10-30: Supabase final notice - new tables in 'public' need explicit grants from this date (check gapmap)
 - 2026-11-02: RCYF Election Day camps 11/2 and 11/3, $85/day, ages 5+ (Natalie's inbox, flagged 10/21; sign up if needed)
-- 2026-10-28: Evie dermatology 3 PM, Commonwealth Dermatology, 7001 Forest Ave (Natalie's inbox, flagged 10/23)
 - 2026-10-30: Supabase project 'BRCA Bros' going to be paused (email 10/25) - restore if still needed
 
 - 2026-11-16: Brightwheel Mrs. Spangler fall conferences Mon 11/16 - sign up for a slot (William Vann; email 10/26)
 - 2026-11-08: Verizon $129.84 autopay (Natalie's account, routine)
+- 2026-10-30: Commonwealth Oral & Facial Surgery $269.55 balance due for Maren (Natalie's inbox, no due date; flagged 10/28)
