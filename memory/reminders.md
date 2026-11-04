@@ -2,7 +2,6 @@
 
 Active reminders/to-dos with a target date. Remove once surfaced and handled.
 
-- 2026-11-04: Lolli rewards expire - use before then
 
 
 
