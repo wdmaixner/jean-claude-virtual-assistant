@@ -10,6 +10,5 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-11-30: Dominion Energy autopay
 - 2026-12-07: Henrico County utility bill due (acct 0082677-01124694; amount in Paymentus portal; emailed 11/6)
 
-- 2026-11-10: Ticketmaster sold-ticket payout needs action to release payment (Natalie inbox, flagged 11/8)
 - 2026-11-12: Reply to Leslie Dannhardt (Meredith Haga $5,220.19 travel request) and Izzy Gettier (Girl Scout troop bank account paperwork) - both surfaced 11/9, still open
 - 2026-11-13: Natalie Club Pilates Reformer class 8:00 AM
