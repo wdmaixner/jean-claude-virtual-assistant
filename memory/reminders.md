@@ -12,3 +12,6 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 
 - 2026-11-12: Reply to Leslie Dannhardt (Meredith Haga $5,220.19 travel request) and Izzy Gettier (Girl Scout troop bank account paperwork) - both surfaced 11/9, still open
 - 2026-11-13: Natalie Club Pilates Reformer class 8:00 AM
+- 2026-11-13: Will IRONWORKS haircut 10:30-11:00 AM (booked 11/10)
+- 2026-11-18: Slack Tide Fish Co. dinner 6:15 PM, party of 5 (Natalie's Resy)
+- 2026-11-19: Stripe hides secret API key values Nov 20 - save any keys needed (gapmap) before then
