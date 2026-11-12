@@ -10,8 +10,9 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-11-30: Dominion Energy autopay
 - 2026-12-07: Henrico County utility bill due (acct 0082677-01124694; amount in Paymentus portal; emailed 11/6)
 
-- 2026-11-12: Reply to Leslie Dannhardt (Meredith Haga $5,220.19 travel request) and Izzy Gettier (Girl Scout troop bank account paperwork) - both surfaced 11/9, still open
 - 2026-11-13: Natalie Club Pilates Reformer class 8:00 AM
-- 2026-11-13: Will IRONWORKS haircut 10:30-11:00 AM (booked 11/10)
+- 2026-11-13: IRONWORKS 10:00 'Little Man' kids' cut + 10:30 Will 'Busy Man' - both need confirming via email link
 - 2026-11-18: Slack Tide Fish Co. dinner 6:15 PM, party of 5 (Natalie's Resy)
 - 2026-11-19: Stripe hides secret API key values Nov 20 - save any keys needed (gapmap) before then
+- 2026-11-14: Pay Commonwealth Oral & Facial Surgery balance (Maren; amount in portal, Natalie's inbox 11/11) and Labcorp new bill (Natalie's inbox 11/11)
+- 2026-11-14: Check Citi Double Cash ...5214 AutoPay ($8,057.07 balance 11/11) is funded - WF ...5253 only $569.57
