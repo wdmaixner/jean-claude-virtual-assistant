@@ -12,4 +12,4 @@ A small collection of helper scripts for everyday tasks.
 python greet.py YourName
 ```
 
-This will pritn out a personalized greeting.
+This will print out a personalized greeting.
