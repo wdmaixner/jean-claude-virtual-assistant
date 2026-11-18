@@ -6,10 +6,9 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-11-22: State Farm auto $249.35 autopay
 - 2026-11-30: Dominion Energy autopay
 - 2026-12-07: Henrico County utility bill due (acct 0082677-01124694; amount in Paymentus portal; emailed 11/6)
-- 2026-11-18: Slack Tide Fish Co. dinner 6:15 PM, party of 5 (Natalie's Resy)
 - 2026-11-19: Stripe hides secret API key values Nov 20 - save any keys needed (gapmap) before then
 - 2026-11-20: VCU Health statement for Natalie $95.00 (emailed 11/13; due date not shown)
-- 2026-11-18: SGES art fundraiser orders due (Maren, order forms came home; Ms. Coleman)
 - 2026-11-19: PTA Bingo Night 6 PM at SGES - Will at Renaissance Toledo Downtown that night (work trip)
-- 2026-11-18: Confirm AptDeco Peloton pickup (window Nov 16-25) is cancelled - Peloton Repowered ticket #536917 said they would cancel the mistaken sale
 - 2026-11-19: Check Branch Furniture charged only once (order #99535638 canceled, #99535640 confirmed 11/16)
+- 2026-11-20: Labcorp $3.63 for Maren (invoice 43860078, DOS 10/13; Natalie's inbox)
+- 2026-11-21: RVA Carolina Club UNC vs UVA game watch 12:30 PM at Parlay, Scott's Addition (RSVP rvaheels@gmail.com)
