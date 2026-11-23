@@ -7,3 +7,4 @@ Active reminders/to-dos with a target date. Remove once surfaced and handled.
 - 2026-11-29: GS Troop 587 meeting Sun 11/30 at Wyndham Clubhouse (Outdoor Art Creator badge); next 12/14 (bring spare holiday cards)
 - 2026-12-04: GS cookie training Sat 12/5 9 AM at Skipwith Service Center (Holly attending)
 - 2026-12-14: Email Holly by 12/15 to register Maren for GS MLK Day of Service (1/18, 9-12, Skipwith)
+- 2026-11-24: SGES (Maren) Pajama Day Tue 11/24; NO Tuesday morning clubs; school closed 11/25-27 for Thanksgiving, resumes Mon 11/30
